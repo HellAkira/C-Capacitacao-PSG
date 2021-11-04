@@ -1,0 +1,32 @@
+C:\Users\LAB06\Documents\HelioA\TreinoC#\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\LAB06\Documents\HelioA\TreinoC#\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\LAB06\Documents\HelioA\TreinoC#\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\LAB06\Documents\HelioA\TreinoC#\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\LAB06\Documents\HelioA\TreinoC#\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\LAB06\Documents\HelioA\TreinoC#\ConsoleApp\bin\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\LAB06\Documents\HelioA\TreinoC#\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\LAB06\Documents\HelioA\TreinoC#\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\LAB06\Documents\HelioA\TreinoC#\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB06\Documents\HelioA\TreinoC#\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\LAB06\Documents\HelioA\TreinoC#\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\LAB06\Documents\HelioA\TreinoC#\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\LAB06\Documents\HelioA\TreinoC#\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\LAB06\Documents\HelioA\TreinoC#\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\LAB06\Documents\HelioA\TreinoC#\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\LAB06\Documents\HelioA\TreinoC#\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\LAB06\Documents\HelioA\Capacitacao C#\TreinoC# 03-11-2021\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\LAB06\Documents\HelioA\Capacitacao C#\TreinoC# 03-11-2021\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\LAB06\Documents\HelioA\Capacitacao C#\TreinoC# 03-11-2021\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\LAB06\Documents\HelioA\Capacitacao C#\TreinoC# 03-11-2021\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\LAB06\Documents\HelioA\Capacitacao C#\TreinoC# 03-11-2021\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\LAB06\Documents\HelioA\Capacitacao C#\TreinoC# 03-11-2021\ConsoleApp\bin\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\LAB06\Documents\HelioA\Capacitacao C#\TreinoC# 03-11-2021\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\LAB06\Documents\HelioA\Capacitacao C#\TreinoC# 03-11-2021\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\LAB06\Documents\HelioA\Capacitacao C#\TreinoC# 03-11-2021\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB06\Documents\HelioA\Capacitacao C#\TreinoC# 03-11-2021\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\LAB06\Documents\HelioA\Capacitacao C#\TreinoC# 03-11-2021\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\LAB06\Documents\HelioA\Capacitacao C#\TreinoC# 03-11-2021\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\LAB06\Documents\HelioA\Capacitacao C#\TreinoC# 03-11-2021\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\LAB06\Documents\HelioA\Capacitacao C#\TreinoC# 03-11-2021\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\LAB06\Documents\HelioA\Capacitacao C#\TreinoC# 03-11-2021\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\LAB06\Documents\HelioA\Capacitacao C#\TreinoC# 03-11-2021\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
